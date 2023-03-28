@@ -63,13 +63,6 @@ body{
 	transform: scaleX(1);
 	transform-origin: right;
 }
-
-
-
-
-
-
-
 .navigation a{
 	position: relative;
 	font-size: 1.1em;
@@ -94,19 +87,10 @@ body{
 	transform-origin: center;
 
 }
-
-
-
-
-
-}
 .navigation .navigation a{
 	justify-content: space-between;
 	margin-left: 40px;
 }
-
-
-
 .navigation .login-register{
 	width: 100px;
 	height: 50px;
@@ -127,9 +111,6 @@ body{
 	color: #162938;
 	cursor: pointer;
 }
-
-
-
 .nav-bar a{
 	text-decoration: none;
 	text-align: center;
@@ -144,12 +125,12 @@ body{
 }
 
 	
-.navbar a:hover{
+.nav-bar a:hover{
 	cursor: pointer;
 	
 	text-decoration: underline;
 }
-.navbar .login-button a{
+.nav-bar .login-button a{
 	font-weight: 600;
 	color: #000;
 	width: 100%;
@@ -158,7 +139,7 @@ body{
 	margin-left: 10px;
 
 }
-.navbar .login-button a:hover{
+.nav-bar .login-button a:hover{
 	cursor: pointer;
 	text-decoration: underline;
 	color: black;
@@ -367,8 +348,6 @@ h4{
 		width: 100%;
 	}
 }
-
-
 .menu-page div{
 	margin-bottom: 70px;
 	margin-left: 60px;
